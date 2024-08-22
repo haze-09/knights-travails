@@ -1,3 +1,3 @@
-import meow from "./board.js";
+import adjList from "./board.js";
 
-meow();
+console.log(adjList);
