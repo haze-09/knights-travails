@@ -1,0 +1,14 @@
+{
+  "name": "knights-travails",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "made to practice graphs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon src/main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
