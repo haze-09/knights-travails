@@ -35,4 +35,4 @@ for (let x = 0; x < boardSize; x++) {
   }
 }
 
-export default adjList;
+export {adjList,toIndex,isValid,boardSize};
