@@ -2,5 +2,5 @@
 import { knightMoves } from "./bfs.js";
 
 
-let query = knightMoves([0,0],[6,5]);
+let query = knightMoves([0,1],[5,3]);
 console.log(query);
